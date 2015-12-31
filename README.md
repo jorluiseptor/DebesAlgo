@@ -1,5 +1,5 @@
 # Debes Algo
-Aplicacion para seguir los negocios que hacienda de PR cerro por impago de IVU
+Aplicación para seguir los negocios que el Departamento de Hacienda (http://www.hacienda.gobierno.pr/) hacienda de PR cerro por impago de IVU
 
 Esta aplicación se encuentra en producción en http://debesalgo.com y va ser un website con un cliente de cordova añadido.
 
